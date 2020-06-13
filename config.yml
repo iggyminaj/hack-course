@@ -14,3 +14,4 @@ steps:
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
+hack(password)
